@@ -1,5 +1,5 @@
 # tan-importer
-===
+
 Chrome extension for Erste Bank e banking that automatically imports data from TAN table into your browser.
 
 ### Setup
