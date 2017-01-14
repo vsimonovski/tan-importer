@@ -1,0 +1,17 @@
+{
+  "name": "TAN importer",
+  "description": "Import data from TAN table",
+  "version": "2.0",
+  "permissions": [
+    "activeTab"
+  ],
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_title": "TAN import",
+    "default_icon": "icon.png"
+  },
+  "manifest_version": 2
+}
